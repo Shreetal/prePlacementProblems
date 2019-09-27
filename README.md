@@ -8,7 +8,7 @@ Print whether Pink will be sad or happy after the delivery of the records.
 <h1>Input Format</h1>
 N - Number of records followed by N numbers- order of records. 
   
-<h2>Output Format<h2\>
+<h2>Output Format</h2>
   Print "Happy" if the playlist has songs from 1 to N in order else "Sad".
     
   <h3>Constraints </h3>
